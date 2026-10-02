@@ -1,4 +1,4 @@
-# Awesome (Nicholas Gardella)
+# Awesome (njg4ne)
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
 
@@ -27,9 +27,9 @@ Entries are short on purpose. Each one links out so you can explore further.
 
 ## Authorship
 
-This list is written and curated by **Nicholas Gardella**. The selections, opinions, and experience behind them are Nicholas's.
+This list is written and curated by **njg4ne**. The selections, opinions, and experience behind them are njg4ne's.
 
-AI agents help draft, organize, and maintain it. That isn't hidden here, and there's nothing to hide. The agents are tools, and the thinking behind the list is Nicholas's.
+AI agents help draft, organize, and maintain it. That isn't hidden here, and there's nothing to hide. The agents are tools, and the thinking behind the list is njg4ne's.
 
 ## License
 
